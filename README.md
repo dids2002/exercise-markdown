@@ -4,6 +4,6 @@
 
 * Dids
 * Dids
-* Did
+* Dids
 
-Lien vers fichier markdown : ![Cliquez ici](markdown.md)
+Lien vers fichier markdown : [Cliquez ici](markdown.md)

@@ -48,5 +48,5 @@
 
 #### Lien vers fichier Readme
 
-Lien vers fichier : ![Cliquez ici](README.md)
+Lien vers fichier : [Cliquez ici](README.md)
 
