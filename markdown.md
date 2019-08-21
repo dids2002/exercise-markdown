@@ -21,8 +21,8 @@
 
 #### Liens
 
-[GitHub](http://github.com)
-http://github.com - automatic!
+* [GitHub](http://github.com)
+* Un autre lien http://github.com 
 
 
 #### Image statique
@@ -36,8 +36,8 @@ http://github.com - automatic!
 
 #### Code
 
-```<script type="text/javascript">
+```javascript
     alert("Hello!");
-</script>```
+```
 
 
