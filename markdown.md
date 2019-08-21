@@ -40,4 +40,7 @@
     alert("Hello!");
 ```
 
+#### Code 2
 
+````javascript
+	aleter("Super");```
