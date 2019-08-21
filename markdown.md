@@ -43,4 +43,4 @@
 #### Code 2
 
 ````javascript
-	aleter("Super");```
+	alert("Super");```
