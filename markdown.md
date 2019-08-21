@@ -42,6 +42,11 @@
 
 #### Code 2
 
-````javascript
+```javascript
 	alert("Super");
 ```
+
+#### Lien vers fichier Readme
+
+Lien vers fichier : ![Cliquez ici](README.md)
+
